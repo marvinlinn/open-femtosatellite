@@ -4,8 +4,9 @@ layout: home
 nav_order: 1
 ---
 
-# Open Femtosatellite Project
-{: .fs-9 .fw-500 }
+<p style="width:70%;">
+  <img src="/assets/logo.png" />
+</p>
 
 Welcome to the Open Femtosatellite Project, an initiative focused on increasing acessibility to spacecraft engineering education and mineaturized research.
 {: .fs-6 .fw-300 }
