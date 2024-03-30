@@ -1,8 +1,9 @@
 title: Open Femtosatellite
 description: The Open Source Femtosatellite Project
+theme: just-the-docs
 remote_theme: pmarsceill/just-the-docs
 
 url: https://femtosat.marvinlin.space
 
 aux_links:
-  Template Repository: https://github.com/marvinlinn/open-femtosatellite
+  Source Repository: https://github.com/marvinlinn/open-femtosatellite
