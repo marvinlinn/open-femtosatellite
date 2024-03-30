@@ -1,13 +1,13 @@
 ---
-title: Design Premise
+title: Why Block Programming?
 layout: default
 nav_order: 1
-parent: Design Documentation
+parent: Block Programming (Blockly)
 last_modified_date: March 29th, 2024
 ---
 
 {: .fs-8 .fw-700}
-# Design Premise
+# Why Block Programming?
 
 {: .fs-5 .fw-300 }
 DESCRIPTION HERE

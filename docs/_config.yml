@@ -2,7 +2,7 @@ title: Open Femtosat
 description: The Open Source Femtosatellite Project
 
 # For Local Usage
-# theme: just-the-docs
+theme: just-the-docs
 
 # For GitHub Pages Usage
 remote_theme: pmarsceill/just-the-docs
