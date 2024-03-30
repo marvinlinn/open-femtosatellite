@@ -7,10 +7,10 @@ nav_order: 1
 # Open Femtosatellite Project
 {: .fs-9 }
 
-Welcome to EAG documentation! This website hosts a wealth of procedures and processes for the Experimental Astrophysics Group.
+Welcome to the Open Femtosatellite Project, an initiative focsued on increasing acessibility to spacecraft engineering education and mineaturized research.
 {: .fs-6 .fw-300 }
 
-[How to Use](https://femtosat.marvinlin.space/how-to){: .btn .btn-blue .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[How to Use](https://femtosat.marvinlin.space/src/how-to.html){: .btn .btn-blue .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Source Repository](https://github.com/marvinlinn/open-femtosatellite){: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 }
 
 ---

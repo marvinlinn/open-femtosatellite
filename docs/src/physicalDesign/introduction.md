@@ -1,12 +1,13 @@
 ---
-title: How to Use
+title: Design Premise
 layout: default
-nav_order: 2
+nav_order: 1
+parent: Physical Design
 last_modified_date: March 29th, 2024
 ---
 
 {: .fs-8 .fw-700}
-# How to Use
+# Design Premise
 
 {: .fs-5 .fw-300 }
 DESCRIPTION HERE
