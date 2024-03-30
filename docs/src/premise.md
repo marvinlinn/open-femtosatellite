@@ -23,12 +23,12 @@ A comprehensive overview of project motivations, behavioral designs, and functio
 {:toc}
 </details>
 ---
-As described on the home page, the Open Femtosatellite Project serves two primary motivations: **Education** and **Research/Engineering**. The following sections will provide a breakdown of motivations and objectives with this project.
+As described on the home page, the Open Femtosatellite Project serves two primary motivations: **Education** and **Research/Engineering**. The following sections will provide a breakdown of motivations and objectives with this project, as well as the high level approach to achieving these objectives.
 
 ### Education: An Open and Hands-On Tool
 {: .fw-700}
 
-
+At it's heart, the original purpose of this project is to provide a low-cost opportunity for students to refine their skills in problem solving and engineering. Through an open source framework, others can adapt the work here for usage in various classrooms of different backgrounds and skillsets. The Open Femtosatellite Project serves as a hands-on opportunity to concept, design, and program a mineatureized spacecraft with possibility of real-world deployment into space.
 
 {: .note-title }
 > A Short Aside: Systems Thinking and Engineering
@@ -52,3 +52,13 @@ As described on the home page, the Open Femtosatellite Project serves two primar
 
 ### Reserach and Engineering: Mineaturizations, Swarms, and More!
 {: .fw-700}
+
+Space and spacecraft research is notoriously exepnsive, time consuming, and high risk in nature. A contributing factor is the size of satellites often used for missions. In many cases, missions may benefit from mineaturization and swarms, which can help reduce costs, reduce mission risk, and provide new and unique research opportunities. One of many applications of mineaturized spacecrafts is the [Berkeley Low Cost Interplanetary Solar Sail from Professor Pister](https://bsac.berkeley.edu/publications/bliss-interplanetary-exploration-swarms-low-cost-spacecraft). This project is parallel to Professor Pister's Project.
+
+<p align:center style="width:70%; margin: auto;">
+  <img src="/assets/jacobsSlide.png" />
+</p>
+
+<p align:center style="font-style: italic; font-size:10px; width:70%; margin: auto; text-align: center;">
+  Slide from Marvin Lin's Spring 2024 Jacobs Design Innovation Catalyst Introduction Presentation
+</p>
