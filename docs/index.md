@@ -41,7 +41,7 @@ The Open Femtosatellite Project is designed to cater towards all levels and expe
 ### Engineering & Research
 {: .fw-700 }
 
-One domain of interest as mentioned in all three publications/explorations of femtosatellite class spacecrafts is low mass, low cost space exploration and research. This project intends to be another parallel thread exploring the possibilities of mineaturization in spacecraft research, as well as swarm communication technolgoies, imaging, and hyperoptimzied SoCs (a future project).
+One domain of interest as mentioned in all three publications/explorations of femtosatellite class spacecrafts is low mass, low cost space exploration and research. This project intends to be another parallel thread exploring the possibilities of mineaturization in spacecraft research, as well as swarm communication technolgoies, imaging, and custom low-power & radiation optimized SoCs (a future project).
 
 ## Project Roadmap
 {: .fw-700 }
@@ -56,7 +56,7 @@ One domain of interest as mentioned in all three publications/explorations of fe
 
 **Early 2024:** Initial Prototype (Supported by Jacobs Innovation Grant)\
 **Late 2024 to Early 2025:** Open & Custom RISC-V based SoC on SKY130nm or GF180nm\
-**Early 2025 to TBD:** Custom Proprietary RISC-V based SoC for Research\
+**Early 2025 to TBD:** Custom Proprietary RISC-V based SoC for Research
 
 ## Project Supporters & Sponsors
 {: .fw-700 }
@@ -70,7 +70,7 @@ One domain of interest as mentioned in all three publications/explorations of fe
 <p align:center style="width:40%; margin: auto;">
   <img src="/assets/jacobs.png" />
 </p>
-**Jacobs Institute for Design Innovation[^1]**: $500 Spark Innovation Catalyst Grant
+**Jacobs Institute for Design Innovation[^1]**: $500 Spring 2024 Spark Innovation Catalyst Grant
 
 ## Project Contributers
 {: .fw-700 }

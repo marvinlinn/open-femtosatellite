@@ -9,9 +9,9 @@ last_modified_date: March 29th, 2024
 # How to Use
 
 {: .fs-5 .fw-300 }
-DESCRIPTION HERE
+A short guide on usage, best practices, and ways to contribute to the project.
 
 ---
 
-## Test
+## WORK IN PROGRESS
 {: .fw-700 }

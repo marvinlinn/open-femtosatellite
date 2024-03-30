@@ -1,6 +1,10 @@
 title: Open Femtosat
 description: The Open Source Femtosatellite Project
+
+# For Local Usage
 # theme: just-the-docs
+
+# For GitHub Pages Usage
 remote_theme: pmarsceill/just-the-docs
 
 url: https://femtosat.marvinlin.space
@@ -28,3 +32,10 @@ callouts:
 # Include Last Edit Timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
+# Footer
+footer_content: "Copyright © 2024 Marvin Lin. Project source files distributed by an <a href=\"https://github.com/marvinlinn/open-femtosatellite/blob/main/LICENSE\">MIT license.</a>"
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
