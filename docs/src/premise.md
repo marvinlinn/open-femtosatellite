@@ -15,10 +15,16 @@ DESCRIPTION HERE
 
 ---
 
-## HEADING HERE
+## Project Purpose
+{: .fs-6 .fw-700}
+
+
 
 ## Behavioral Overview
 {: .fs-6 .fw-700}
+
+{: .warning }
+> A paragraph
 
 <br />
 <p align:center style="margin: auto;">
