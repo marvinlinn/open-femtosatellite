@@ -1,7 +1,7 @@
 ---
 title: Design Solution Definition
 layout: default
-nav_order: 5
+nav_order: 4
 parent: Project Premise
 last_modified_date: March 29th, 2024
 ---
@@ -27,7 +27,7 @@ A comprehensive collection of functional and performance requirements driven by 
 ---
 
 {: .note-title}
-> From NGOs, Requirements, and Trade Stuides to Design
+> From NGOs and Requirements to Design
 > 
 > After we've gotten a grasp on the high level requirments of the product (**which may/will iterate and evolve over time**), we can now start exploring solutions!
 
@@ -72,4 +72,7 @@ Foundationally, the bus must have a central avionics/housekeeping system. As the
 
 | Requirement ID | Requirement Name |
 |:---------------|:-----------------|
-| FUNCT-1.1 | Technical |
+| FUNCT-1.1 | Low-power Housekeeping & C3 Operations |
+| FUNCT-2.3 | Physically Radiation Tolerant Compute |
+| FUNCT-2.4 | Logically Hardened Design |
+| FUNCT-2.5 | Watchdog Circuit for Radiation Upsets |

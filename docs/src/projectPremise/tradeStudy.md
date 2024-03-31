@@ -1,12 +1,12 @@
 ---
 title: Trade Study
 layout: default
-nav_order: 4
+nav_order: 5
 parent: Project Premise
 last_modified_date: March 29th, 2024
 ---
 
-# Trade Study
+# Implementation Trade Study
 {: .fs-8 .fw-700 .d-inline-block}
 
 WORK IN PROGRESS
