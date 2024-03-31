@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="../docs/assets/logo.png" />
+    <img src="../docs/assets/logoCover.png" />
     <h1 align="center">Open Femtosatellite Project--Block Programming (Blockly)</h1>
     <p align="center">Code for Block Programming for Open Femtosatellite</p>
     <p align="center"><strong><a href="https://femtosat.marvinlin.space/src/block-programming.html">Explore the Block Programming Documentation Here!</a></strong></p>
