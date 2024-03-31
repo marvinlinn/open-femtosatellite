@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="docs/assets/logo.png" />
+    <img src="docs/assets/logoCover.png" />
     <p align="center">Mineaturized satellite platform for education and research.</p>
     <p align="center"><strong><a href="https://femtosat.marvinlin.space/">Learn More Here!</a></strong></p>
 </p>
