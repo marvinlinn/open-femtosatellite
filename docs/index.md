@@ -12,6 +12,7 @@ Welcome to the Open Femtosatellite Project, an initiative focused on increasing 
 {: .fs-6 .fw-300 }
 
 [How to Use](https://femtosat.marvinlin.space/src/how-to.html){: .btn .btn-blue .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Project Overview](https://femtosat.marvinlin.space/src/premise.html){: .btn .btn-purple .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [Source Repository](https://github.com/marvinlinn/open-femtosatellite){: .btn .btn-outline .fs-5 .mb-4 .mb-md-0 }
 
 ---
@@ -45,7 +46,10 @@ The Open Femtosatellite Project is designed to cater towards all levels and expe
 One domain of interest as mentioned in all three publications/explorations of femtosatellite class spacecrafts is low mass, low cost space exploration and research. This project intends to be another parallel thread exploring the possibilities of mineaturization in spacecraft research, as well as swarm communication technolgoies, imaging, and custom low-power & radiation optimized SoCs (a future project).
 
 ## Project Roadmap
-{: .fw-700 }
+{: .fw-700 .d-inline-block}
+
+RELEASED (V1.0)
+{: .label .label-purple }
 
 {: .warning }
 > This roadmap is HIGHLY hypothetical, and is very much subject to change. Updates will be made as

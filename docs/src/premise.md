@@ -7,8 +7,11 @@ has_toc: false
 last_modified_date: March 29th, 2024
 ---
 
-{: .fs-8 .fw-700}
 # Project Premise
+{: .fs-8 .fw-700 .d-inline-block}
+
+RELEASED (V1.0)
+{: .label .label-purple }
 
 {: .fs-5 .fw-300 }
 A comprehensive overview of project motivations, behavioral designs, and functional designs.
