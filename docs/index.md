@@ -26,6 +26,9 @@ Welcome to the Open Femtosatellite Project, an initiative focused on increasing 
 {:toc}
 </details>
 
+{: .warning }
+> A large portion of this website is currently under construction. A somewhat full documentation is expect ***by end of April 2024***
+
 ## Overview
 {: .fw-700 }
 

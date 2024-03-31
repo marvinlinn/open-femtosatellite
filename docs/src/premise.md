@@ -28,6 +28,19 @@ A comprehensive overview of project motivations, behavioral designs, and functio
 ---
 As described on the home page, the Open Femtosatellite Project serves two primary motivations: **Education** and **Research/Engineering**. The following sections will provide a breakdown of motivations and objectives with this project, as well as the high level approach to achieving these objectives.
 
+### Reserach and Engineering: Mineaturizations, Swarms, and More!
+{: .fw-700}
+
+Space and spacecraft research is notoriously exepnsive, time consuming, and high risk in nature. A contributing factor is the size of satellites often used for missions. In many cases, missions may benefit from mineaturization and swarms, which can help reduce costs, reduce mission risk, and provide new and unique research opportunities. One of many applications of mineaturized spacecrafts is the [Berkeley Low Cost Interplanetary Solar Sail from Professor Pister](https://bsac.berkeley.edu/publications/bliss-interplanetary-exploration-swarms-low-cost-spacecraft). This project is parallel to Professor Pister's Project.
+
+<p align:center style="width:70%; margin: auto;">
+  <img src="/assets/jacobsSlide.png" />
+</p>
+
+<p align:center style="font-style: italic; font-size:10px; width:70%; margin: auto; text-align: center;">
+  Slide from Marvin Lin's Spring 2024 Jacobs Design Innovation Catalyst Introduction Presentation
+</p>
+
 ### Education: An Open and Hands-On Tool
 {: .fw-700}
 
@@ -52,16 +65,3 @@ At it's heart, the original purpose of this project is to provide a low-cost opp
 > This project will regularly reference/introduce concepts in systems engineering, follwing the 
 > "Systems Engineering V Framework" as seem above. For more detailed exporations of systems thinking and
 > engineering, I reccomend [MATLAB's Video Series on Systems Engineering](https://www.youtube.com/playlist?list=PLn8PRpmsu08owzDpgnQr7vo2O-FUQm_fL), the [NASA Systems Engineering Handbook](https://www.nasa.gov/wp-content/uploads/2018/09/nasa_systems_engineering_handbook_0.pdf), and the [IEEE 29148:2011 Concept of Operations (ConOps)](https://ieeexplore.ieee.org/document/761853).
-
-### Reserach and Engineering: Mineaturizations, Swarms, and More!
-{: .fw-700}
-
-Space and spacecraft research is notoriously exepnsive, time consuming, and high risk in nature. A contributing factor is the size of satellites often used for missions. In many cases, missions may benefit from mineaturization and swarms, which can help reduce costs, reduce mission risk, and provide new and unique research opportunities. One of many applications of mineaturized spacecrafts is the [Berkeley Low Cost Interplanetary Solar Sail from Professor Pister](https://bsac.berkeley.edu/publications/bliss-interplanetary-exploration-swarms-low-cost-spacecraft). This project is parallel to Professor Pister's Project.
-
-<p align:center style="width:70%; margin: auto;">
-  <img src="/assets/jacobsSlide.png" />
-</p>
-
-<p align:center style="font-style: italic; font-size:10px; width:70%; margin: auto; text-align: center;">
-  Slide from Marvin Lin's Spring 2024 Jacobs Design Innovation Catalyst Introduction Presentation
-</p>

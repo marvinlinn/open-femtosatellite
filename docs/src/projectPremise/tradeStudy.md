@@ -1,19 +1,19 @@
 ---
-title: Design Solution Definition
+title: Trade Study
 layout: default
-nav_order: 5
+nav_order: 4
 parent: Project Premise
 last_modified_date: March 29th, 2024
 ---
 
-# Design Solution Definition
+# Trade Study
 {: .fs-8 .fw-700 .d-inline-block}
 
 WORK IN PROGRESS
 {: .label .label-red }
 
 {: .fs-5 .fw-300 }
-A comprehensive collection of functional and performance requirements driven by stakeholder expectations.
+An exploration of viable options and approaches to achieve requirements & high level goals.
 
 ---
 <details open markdown="block">

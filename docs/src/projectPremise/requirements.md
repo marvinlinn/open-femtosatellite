@@ -68,10 +68,13 @@ This is the decription for an example requirement.
 >   <dd>Describe Hierarchy Level of Verification</dd>
 > </dl>
 
-## Requirement Format
+## High Level Requirements
 {: .fw-700}
 
-The folliowing is an example format of a requirement. Each requirment for this project will be described as such throughout any and all documentation.
+{: .highlight }
+> For nearly all projects (especially this one), there exists a requirement hierarchy. **Requirements are recursive in nature and grow downwards in a tree-like structure.** Each level of hierarchy is a level of the system itself (ie. top is entire system, bottom is part level).
+
+Below are high level requirements which directly address the ConOps and previously defined NGOs:
 
 ### Example Requirement
 {: .fw-700}
@@ -79,13 +82,13 @@ The folliowing is an example format of a requirement. Each requirment for this p
 This is the decription for an example requirement.
 > <dl>
 >   <dt>Requirement ID</dt>
->   <dd>EXAMPLE-0.1</dd>
+>   <dd>FUNCT-1</dd>
 >   <dt>Rationale</dt>
 >   <dd>Insert Rationale Here</dd>
 >   <dt>Traced From</dt>
->   <dd>Insert Parent Requirement ID here</dd>
+>   <dd>N/A, NGOs & ConOps</dd>
 >   <dt>Verification Method</dt>
 >   <dd>Describe Verification Method Here</dd>
 >   <dt>Verification Level</dt>
->   <dd>Describe Hierarchy Level of Verification</dd>
+>   <dd>Femtosatellite (Full System)</dd>
 > </dl>
