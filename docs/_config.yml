@@ -10,8 +10,6 @@ search.button: true
 # For Local Usage
 theme: just-the-docs
 
-# For GitHub Pages Usage
-remote_theme: pmarsceill/just-the-docs
 
 url: https://femtosat.marvinlin.space
 
