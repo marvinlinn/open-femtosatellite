@@ -29,7 +29,7 @@ A comprehensive collection of functional and performance requirements driven by 
 {: .note-title}
 > From NGOs and Requirements to Design
 > 
-> After we've gotten a grasp on the high level requirments of the product (**which may/will iterate and evolve over time**), we can now start exploring solutions!
+> After we've gotten a grasp on the high level requirments of the product (**which may/will iterate and evolve over time**), we can now start defining a solution.
 
 ## System Level Architecture
 {: .fw-700}
