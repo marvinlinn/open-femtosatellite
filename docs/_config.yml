@@ -5,8 +5,6 @@ favicon_ico: "/assets/favicon.ico"
 
 logo: "/assets/logoCover.png"
 
-search.button: true
-
 # For Local Usage
 theme: just-the-docs
 
