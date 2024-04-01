@@ -31,15 +31,20 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          path: 'docs'
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
+          path: 'docs'
           ruby-version: '3.1' # Not needed with a .ruby-version file
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0 # Increment this number if you need to re-download cached gems
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
+        with:
+          path: 'docs'
       - name: Build with Jekyll
         # Outputs to the './_site' directory by default
         working-directory: ./docs
@@ -49,6 +54,8 @@ jobs:
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v1
+        with:
+          path: 'docs'
 
   # Deployment job
   deploy:
