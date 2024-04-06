@@ -6,7 +6,9 @@ favicon_ico: "/assets/favicon.ico"
 logo: "/assets/logoCover.png"
 
 # For Local Usage
-theme: just-the-docs
+# theme: just-the-docs
+
+remote-theme: just-the-docs/just-the-docs
 
 
 url: https://femtosat.marvinlin.space
